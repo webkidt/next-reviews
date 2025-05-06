@@ -1,6 +1,9 @@
 {
     "name": "next-reviews",
     "private": true,
+    "scripts": {
+      "dev": "next dev"
+    },
     "dependencies": {
         "next": "^15.3.1",
         "react": "^19.1.0",
